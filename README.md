@@ -59,13 +59,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay39993&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay39993&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 
 📧 sanjaydoz2005@gmail.com  
