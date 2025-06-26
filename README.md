@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**sanjay39993/sanjay39993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I'm Sanjay P
 
 🎓 B.Tech IT student at PSG College of Technology  
@@ -78,14 +62,16 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay39993&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay39993&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
 📧 sanjaydoz2005@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/sanjay-p-8728562b7) | [GitHub](https://github.com/sanjay39993)
+🌐 [LinkedIn](https://www.linkedin.com/in/sanjay-p-8728562b7)  
+👨‍💻 [GitHub](https://github.com/sanjay39993)
 
 ---
 
-*"Code what you love. Love what you code."*
+*“Code what you love. Love what you code.”*
